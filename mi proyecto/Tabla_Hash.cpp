@@ -1,4 +1,3 @@
-//Vargas Linares Adrian
 //Zetina Hernandez Issac
 #include <iostream>
 #include <stdlib.h>
